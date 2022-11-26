@@ -2,7 +2,7 @@
 
 ## İş Problemi
 
-İçerisinde filmler ve filmlere verilen derecelendirme puanları bulunan veri seti aracılığıyla user-based ve item-based recommender yöntemi kullanılarak bir hybrid tavsiye sistemi geliştirmek istenmektedir. 
+İçerisinde filmler ve filmlere verilen derecelendirme puanları bulunan veri seti aracılığıyla user-based ve item-based recommender yöntemi kullanılarak bir hybrid tavsiye sistemi geliştirilmek istenmektedir. 
 
 ## Veri Seti Hikayesi
 
