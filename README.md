@@ -14,3 +14,6 @@ Kullanıcılar rastgele seçilmiştir. Seçilen tüm kullanıcıların en az 20 
 ## Değerlendirme
 
 Projenin çerçevesi, item-based ve user-based tavsiye sistemi geliştirmektir. Bu doğrultuda ilk hedef, -user-based recommender system kapsamında- seçilen bir kullanıcının beğeni alışkanlıklarının diğer kullanıcıların beğeni alışkanlıklarıyla olan korelasyonuna dayalı olarak film önerisinde bulunmaktır. Ulaşılmak istenen ikinci çıktı ise item-based recommender system kapsamında, seçilen bir filmin beğenilme durumunun diğer filmlerin beğenilme durumlarıyla olan korelasyonuna dayalı olarak film önermektir. Nihayetinde her iki yöntemin çıktıları Hybrid Recommender System adı altında karşılaştırılarak çıktı haline getirilmiştir.
+
+![image](https://user-images.githubusercontent.com/114231787/204102969-7d9a7c17-7b69-4ec5-8068-34937af14fa6.png)
+
